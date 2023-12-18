@@ -3,9 +3,10 @@
 <h2><b>Project Description:</b></h2>
 The Road Accident Insights Dashboard is a comprehensive data visualization project aimed at providing stakeholders, including the Ministry of Transport, Road Transport Department, Police Force, Emergency Services Department, Road Safety Corps, Transport Operators, Traffic Management Agencies, Public, Media, and others, with a detailed overview of road accidents for the years 2021 and 2022. The primary focus is on understanding the total casualties, accident severity, and various factors contributing to road accidents.
 
+
 **[Dataset](https://drive.google.com/file/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/view)**
 
-**Dataset Features:**
+<h2><b>Dataset Features</b></h2>
 
 Accident_Index
 Accident Date, Month, Year
@@ -24,9 +25,9 @@ Time
 Urban_or_Rural_Area
 Weather_Conditions
 Vehicle_Type
-**Tool used in this Project :** Microsoft Excel
+<h2><b>Tool used in this Project </b></h2> :  Microsoft Excel
 
-**Requirements:**
+<h2><b>Requirements</b></h2>
 
 **Primary KPI:** -Total casualties for the years 2021 and 2022.
 **Primary KPIs:**-Casualties by Severity and Vehicle Type
@@ -41,7 +42,7 @@ Vehicle_Type
                   Distribution of Total Casualties by Road Surface
                   Relation between Casualties by Area/Location & Day/Night
 
-**Steps:**
+<h2><b>Steps:</b></h2>
 
 **Data Cleaning:**
 
@@ -64,7 +65,7 @@ Vehicle_Type
 **Dashboard Building:**
   Combine all the pivot charts into a cohesive dashboard for easy interpretation and presentation.
   
-**Insights**
+<h2><b>Insights</b></h2>
 
 **Primary KPI: Total Casualties (2021-2022)**
 
@@ -117,5 +118,6 @@ Daylight conditions witness the majority of casualties at 304,963, emphasizing t
 
 These insights guide strategic recommendations for targeted safety measures, intervention planning, and resource allocation to enhance overall road safety.
 
-**Dashboard**
+<h2><b>Dashboard</b></h2>
+
 ![Screenshot 2023-12-18 201527](https://github.com/SUSMIRICHAD/Road_Accident_Data_Analysis/assets/146381149/c8f3e071-9943-4155-a75b-d1cad2d51c37)
