@@ -1,9 +1,7 @@
 # Road_Accident_Data_Analysis
 
-**Project Description:**
+<h5>**Project Description:**</h5>
 The Road Accident Insights Dashboard is a comprehensive data visualization project aimed at providing stakeholders, including the Ministry of Transport, Road Transport Department, Police Force, Emergency Services Department, Road Safety Corps, Transport Operators, Traffic Management Agencies, Public, Media, and others, with a detailed overview of road accidents for the years 2021 and 2022. The primary focus is on understanding the total casualties, accident severity, and various factors contributing to road accidents.
-
-**Tool used in this Project :** Microsoft Excel
 
 **[Dataset](https://drive.google.com/file/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/view)**
 
@@ -26,37 +24,43 @@ Time
 Urban_or_Rural_Area
 Weather_Conditions
 Vehicle_Type
+**Tool used in this Project :** Microsoft Excel
 
 **Requirements:**
 
-**Primary KPI:** 
-  Total casualties for the years 2021 and 2022.
-**Primary KPIs:** 
-  Casualties by Severity and Vehicle Type
-  Percentage of total casualties with respect to accident severity.
-  Maximum casualties by type of vehicle.
+**Primary KPI:** -Total casualties for the years 2021 and 2022.
+**Primary KPIs:**-Casualties by Severity and Vehicle Type
+                  Percentage of total casualties with respect to accident severity.
+                  Maximum casualties by type of vehicle.
 **Secondary KPI's:** 
-  Casualties by Vehicle Type
-  Total casualties with respect to vehicle type.
-  Monthly Trend Analysis
-  Comparison of casualties on a monthly basis for the current year and the previous year.
-  Maximum Casualties by Road Type
-  Distribution of Total Casualties by Road Surface
-  Relation between Casualties by Area/Location & Day/Night
+                  Casualties by Vehicle Type
+                  Total casualties with respect to vehicle type.
+                  Monthly Trend Analysis
+                  Comparison of casualties on a monthly basis for the current year and the previous year.
+                  Maximum Casualties by Road Type
+                  Distribution of Total Casualties by Road Surface
+                  Relation between Casualties by Area/Location & Day/Night
 
 **Steps:**
 
 **Data Cleaning:**
+
   Apply filters to variables to identify and handle missing values and duplicates.
- **Data Processing:**
+  
+**Data Processing:**
+
   Create new columns for month and year from the Accident_Date column using text functions.
+  
 **Data Analysis:**
+
   Insert Pivot tables to analyze total casualties, severity, vehicle types, monthly trends, road types, and road surface conditions.
   ![Screenshot 2023-12-18 201613](https://github.com/SUSMIRICHAD/Road_Accident_Data_Analysis/assets/146381149/85025c6c-8011-42c3-87c0-09f8f658bc42)
 
 **Data Visualization:**
+
   Use Pivot tables to create charts (donut, tree map, line chart, bar chart).
   Apply slicers and timelines for interactive filtering.
+  
 **Dashboard Building:**
   Combine all the pivot charts into a cohesive dashboard for easy interpretation and presentation.
   
@@ -89,8 +93,6 @@ Motorcycle: 33,672
 Other Item: 3,424
 Monthly Trend Analysis (Casualties Comparison)
 
-**Analyzing monthly trends between 2021 and 2022 provides valuable insights into the ebb and flow of accidents:**
-
 **Peak Months:** October and November consistently record the highest casualties in both years, necessitating heightened safety measures during these periods.
 
 **Maximum Casualties by Road Type**
@@ -115,4 +117,5 @@ Daylight conditions witness the majority of casualties at 304,963, emphasizing t
 
 These insights guide strategic recommendations for targeted safety measures, intervention planning, and resource allocation to enhance overall road safety.
 
+**Dashboard**
 ![Screenshot 2023-12-18 201527](https://github.com/SUSMIRICHAD/Road_Accident_Data_Analysis/assets/146381149/c8f3e071-9943-4155-a75b-d1cad2d51c37)
