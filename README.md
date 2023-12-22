@@ -4,7 +4,7 @@
 The Road Accident Insights Dashboard is a comprehensive data visualization project aimed at providing stakeholders, including the Ministry of Transport, Road Transport Department, Police Force, Emergency Services Department, Road Safety Corps, Transport Operators, Traffic Management Agencies, Public, Media, and others, with a detailed overview of road accidents for the years 2021 and 2022. The primary focus is on understanding the total casualties, accident severity, and various factors contributing to road accidents.
 
 
-**[Dataset](https://drive.google.com/file/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/view)**
+<h2><b>[Dataset](https://drive.google.com/file/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/view)</b></h2>
 
 <h2><b>Dataset Features</b></h2>
 
@@ -25,7 +25,7 @@ Time
 Urban_or_Rural_Area
 Weather_Conditions
 Vehicle_Type
-<h2><b>Tool used in this Project </b></h2> :  Microsoft Excel
+<h2><b>Tool used in this Project : </b></h2>  Microsoft Excel
 
 <h2><b>Requirements</b></h2>
 
