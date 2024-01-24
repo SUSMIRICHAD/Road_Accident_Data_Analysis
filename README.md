@@ -81,8 +81,8 @@ Slight: 351,436
 
 **Maximum Casualties by Vehicle Type:**
 
-Cars lead with a substantial 333,485 casualties, highlighting the imperative for targeted campaigns and monitoring for car drivers.
-Secondary KPI: Casualties by Vehicle Type
+Cars lead with a substantial 333,485 casualties, highlighting the imperative for targeted campaigns and monitoring for car drivers.<br>
+**Secondary KPI: Casualties by Vehicle Type**
 
 **The diverse range of vehicles involved in accidents presents varying risks:**
 
